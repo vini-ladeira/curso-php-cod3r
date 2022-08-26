@@ -17,7 +17,7 @@
             <div class="conteudo">
                 <nav class="modulos">
                     <div class="modulo verde">
-                        <h3>Módulo 01</h3>
+                        <h3>Básico</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=exercicios&file=ola">Olá Php</a></li>
                             <li><a href="exercicio.php?dir=exercicios&file=html">Integração - HTML</a></li>
@@ -27,7 +27,7 @@
                         </ul>
                     </div>
                     <div class="modulo vermelho">
-                        <h3>Módulo 02</h3>
+                        <h3>Tipos</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=exercicios&file=int">Tipo Inteiro</a></li>
                             <li><a href="exercicio.php?dir=exercicios&file=float">Tipo Float</a></li>
@@ -35,14 +35,16 @@
                             <li><a href="exercicio.php?dir=exercicios&file=desafio_precedencia">Desafio Precedência</a></li>
                             <li><a href="exercicio.php?dir=exercicios&file=string">Tipo String</a></li>
                             <li><a href="exercicio.php?dir=exercicios&file=desafio_string">Desafio String</a></li>
+                            <li><a href="exercicio.php?dir=exercicios&file=booleano">Tipo Booleano</a></li>
+                            <li><a href="exercicio.php?dir=exercicios&file=conversoes">Conversões</a></li>
                             </ul>
                     </div>
                     <div class="modulo azul">
-                        <h3>Módulo 03</h3>
+                        <h3>Variáveis</h3>
                         <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=exercicios&file=basicovariaveis">Básico de Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=exercicios&file=desafio_equacao">Desafio de Equação</a></li>
+                        <li><a href="exercicio.php?dir=exercicios&file=atribuicoes">Atribuições</a></li>
                         </ul>
                     </div>
                     <div class="modulo roxo">
